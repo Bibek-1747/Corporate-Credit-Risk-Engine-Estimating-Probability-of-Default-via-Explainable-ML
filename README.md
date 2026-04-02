@@ -5,25 +5,6 @@ A portfolio-grade, end-to-end PD modelling project built for quant/credit risk r
 
 ---
 
-## 📦 Setup
-
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. Download dataset from Kaggle
-#    https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
-#    Place data.csv in the same folder as the notebook
-
-# 3. Launch Jupyter
-jupyter notebook corporate_credit_risk_engine.ipynb
-```
-
-> **No data.csv?** The notebook auto-generates a synthetic TEJ-like dataset so you
-> can run the full pipeline end-to-end instantly.
-
----
-
 ## 📁 Project Structure
 
 ```
